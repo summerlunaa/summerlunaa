@@ -7,6 +7,7 @@
 ### 활동
 - 🦁 멋쟁이 사자처럼 서강대 9기
 - 🚗 현대 모비스 서강대(FoSS) 2기 SW 사전 교육 수료
+- 🏍 우아한테크코스 BE 4기
 
 ### BOJ
 [![Solved.ac
@@ -16,4 +17,4 @@
 [summerlunaa.github.io](https://summerlunaa.github.io/)
 
 ### Contect Me
-summerluna@u.sogang.ac.kr
+summerlunaa9@gmail.com
