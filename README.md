@@ -13,8 +13,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=summerluna)](https://solved.ac/summerluna)
 
-### 알고리즘 블로그
-[summerlunaa.github.io](https://summerlunaa.github.io/)
+### 블로그
+- [colour-my-memories-blue.tistory.com](https://colour-my-memories-blue.tistory.com/)
+- only 알고리즘 [summerlunaa.github.io](https://summerlunaa.github.io/)
 
 ### Contect Me
 summerlunaa9@gmail.com
